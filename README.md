@@ -1,7 +1,7 @@
 # List of Programming Books
 
 ### Computer Systems and Networks
-- The Secrets of Turing: An Interpretation of His Life, Thought, and Papers
+- The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma (1st Ed)
 - Introduction to Computer Systems
 - A Deeper Understanding of the Linux Kernel
 - In-depth Linux Kernel Architecture
@@ -204,9 +204,10 @@
 - Geeks and Teams: Team Survival Secrets for Software Engineers
 
 ### Job Search & Interviews
-- The Gold Book of Programmer Interviews (5th Edition)
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Ed)
+- Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, Or Any Top Tech Company (2rd Ed)
+- Programmers interview Golden (5th Ed)
 - The Beauty of Programming: Insights from Microsoft's Technical Interviews
-- The Golden Collar Resume: Knocking on the doors of Apple, Microsoft, and Google
 - The Finger of the Offer: Typical Programming Questions by Interviewers of Famous Enterprises (Memorial Edition)
 
 ### Beyond Programming
