@@ -49,30 +49,6 @@
 - Data Structures and Algorithm Analysis: C Description (2nd Edition)
 - Data Structures and Algorithm Analysis : Java Language Description (2nd Edition)
 
-### Career Planning
-- [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
-- [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
-- [Psycho-Cybernetics, A New Way to Get More Living Out of Life](https://www.pdfdrive.com/psycho-cybernetics-e199662590.html)
-- [The War of Art: Break Through the Blocks and Win your Inner Creative Battles](https://www.pdfdrive.com/the-war-of-art-break-through-the-blocks-and-win-your-inner-creative-battles-d188960500.html)
-- [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.pdfdrive.com/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph-d61378068.html)
-- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.pdfdrive.com/the-power-of-habit-why-we-do-what-we-do-in-life-and-business-d194213356.html)
-- [The Lean Startup](https://www.pdfdrive.com/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-d164190650.html)
-- [The Fifth Discipline: The Art & Practice of The Learning Organization](https://www.pdfdrive.com/the-fifth-discipline-the-art-and-practice-of-the-learning-organization-d191311947.html)
-- [When: The Scientific Secrets of Perfect Timing](https://www.pdfdrive.com/when-the-scientific-secrets-of-perfect-timing-d195082469.html)
-- [Scaling Up Excellence: Getting to More Without Settling for Less](https://www.pdfdrive.com/scaling-up-excellence-getting-to-more-without-settling-for-less-d184525713.html)
-- Professionalism for Programmers
-- The Programmer's Way: From Journeyman to Expert
-- The Software Developer's Roadmap: From Apprentice to Master
-- I Program, I'm Happy: Career Planning for Programmers
-- The Programmer's Mind: Nine Lessons in Developing Cognitive Potential
-- The 45 Habits of Highly Effective Programmers: The Way to Agile Development (Revised Edition)
-- Master Interviews
-- Wisdom of Programming Masters
-- Interviews with Programming Masters
-- Programming Life: Interviews with 15 Software Pioneers
-- The Wonders: 15 Computer Geniuses and Their Major Discoveries
-- Turing and the ACM Turing Award
-
 ### Architecture 
 - Microservices Design
 - Big Data Journals
@@ -219,6 +195,30 @@
 - The Human Piece (Original Book 3rd Edition)
 - The Secret Behind the Door: The Story of Management Excellence
 - Geeks and Teams: Team Survival Secrets for Software Engineers
+
+### Career Planning
+- [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
+- [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
+- [Psycho-Cybernetics, A New Way to Get More Living Out of Life](https://www.pdfdrive.com/psycho-cybernetics-e199662590.html)
+- [The War of Art: Break Through the Blocks and Win your Inner Creative Battles](https://www.pdfdrive.com/the-war-of-art-break-through-the-blocks-and-win-your-inner-creative-battles-d188960500.html)
+- [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.pdfdrive.com/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph-d61378068.html)
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.pdfdrive.com/the-power-of-habit-why-we-do-what-we-do-in-life-and-business-d194213356.html)
+- [The Lean Startup](https://www.pdfdrive.com/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-d164190650.html)
+- [The Fifth Discipline: The Art & Practice of The Learning Organization](https://www.pdfdrive.com/the-fifth-discipline-the-art-and-practice-of-the-learning-organization-d191311947.html)
+- [When: The Scientific Secrets of Perfect Timing](https://www.pdfdrive.com/when-the-scientific-secrets-of-perfect-timing-d195082469.html)
+- [Scaling Up Excellence: Getting to More Without Settling for Less](https://www.pdfdrive.com/scaling-up-excellence-getting-to-more-without-settling-for-less-d184525713.html)
+- Professionalism for Programmers
+- The Programmer's Way: From Journeyman to Expert
+- The Software Developer's Roadmap: From Apprentice to Master
+- I Program, I'm Happy: Career Planning for Programmers
+- The Programmer's Mind: Nine Lessons in Developing Cognitive Potential
+- The 45 Habits of Highly Effective Programmers: The Way to Agile Development (Revised Edition)
+- Master Interviews
+- Wisdom of Programming Masters
+- Interviews with Programming Masters
+- Programming Life: Interviews with 15 Software Pioneers
+- The Wonders: 15 Computer Geniuses and Their Major Discoveries
+- Turing and the ACM Turing Award
 
 ### Job Search & Interviews
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Ed)
