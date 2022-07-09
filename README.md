@@ -51,7 +51,7 @@
 
 ### Career Planning
 - The Cathedral and the Bazaar https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf
-- [The Productive Programmer (Theory in Practice) (1st Edition)] (https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
+- [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
 - Professionalism for Programmers
 - The Programmer's Way: From Journeyman to Expert
 - The Software Developer's Roadmap: From Apprentice to Master
