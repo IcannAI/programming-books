@@ -80,6 +80,12 @@
 ### Web Front End
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
+- [Programming JavaScript Applications](https://github.com/gadote/testbooks/blob/master/Programming%20JavaScript%20Applications%20-%20Eric%20Elliott.pdf)
+- [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
+- [Speaking JavaScript](http://speakingjs.com/es5/)
+- [ExploringJS](https://exploringjs.com/es6/)
 - High Performance JavaScript
 - Sharp jQuery (2nd Edition)
 - JavaScript Ninja Secrets (thanks to @joker-danta for additional recommendations)
