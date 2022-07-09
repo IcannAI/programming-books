@@ -79,6 +79,7 @@
 
 ### Web Front End
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - High Performance JavaScript
 - Sharp jQuery (2nd Edition)
 - JavaScript Ninja Secrets (thanks to @joker-danta for additional recommendations)
