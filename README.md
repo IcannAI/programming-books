@@ -78,7 +78,7 @@
 - Software Systems Architecture: Using Viewpoints and Perspectives to Work with Stakeholders (2nd Edition)
 
 ### Web Front End
-- [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf)
+- [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) [eBook](https://github.com/thejsway/thejsway)
 - High Performance JavaScript
 - Sharp jQuery (2nd Edition)
 - JavaScript Ninja Secrets (thanks to @joker-danta for additional recommendations)
