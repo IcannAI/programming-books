@@ -50,7 +50,7 @@
 - Data Structures and Algorithm Analysis : Java Language Description (2nd Edition)
 
 ### Career Planning
-- The Cathedral and the Bazaar https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf
+- [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
 - [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
 - Professionalism for Programmers
 - The Programmer's Way: From Journeyman to Expert
@@ -115,7 +115,7 @@
 - CLR via C# (4th Edition)
 
 ### Python
-- [A Whirlwind Tour of Python] (https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 - Programming with Collective Intelligence
 - Learning Python the Dumb Way
 - Python Basic Tutorial
@@ -207,8 +207,7 @@
 ### Job Search & Interviews
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Ed)
 - Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, Or Any Top Tech Company (2rd Ed)
-- Software Engineering at Google: Lessons Learned from Programming Over Time
-https://abseil.io/resources/swe-book/html/toc.html
+- [Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book/html/toc.html)
 - Programmers interview Golden (5th Ed)
 - The Beauty of Programming: Insights from Microsoft's Technical Interviews
 - The Finger of the Offer: Typical Programming Questions by Interviewers of Famous Enterprises (Memorial Edition)
