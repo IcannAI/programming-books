@@ -56,6 +56,10 @@
 - [The War of Art: Break Through the Blocks and Win your Inner Creative Battles](https://www.pdfdrive.com/the-war-of-art-break-through-the-blocks-and-win-your-inner-creative-battles-d188960500.html)
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.pdfdrive.com/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph-d61378068.html)
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.pdfdrive.com/the-power-of-habit-why-we-do-what-we-do-in-life-and-business-d194213356.html)
+- [The Lean Startup](https://www.pdfdrive.com/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-d164190650.html)
+- [The Fifth Discipline: The Art & Practice of The Learning Organization](https://www.pdfdrive.com/the-fifth-discipline-the-art-and-practice-of-the-learning-organization-d191311947.html)
+- [When: The Scientific Secrets of Perfect Timing](https://www.pdfdrive.com/when-the-scientific-secrets-of-perfect-timing-d195082469.html)
+- [Scaling Up Excellence: Getting to More Without Settling for Less](https://www.pdfdrive.com/scaling-up-excellence-getting-to-more-without-settling-for-less-d184525713.html)
 - Professionalism for Programmers
 - The Programmer's Way: From Journeyman to Expert
 - The Software Developer's Roadmap: From Apprentice to Master
@@ -225,6 +229,7 @@
 - The Finger of the Offer: Typical Programming Questions by Interviewers of Famous Enterprises (Memorial Edition)
 
 ### Beyond Programming
+- [How Google Tests Software](https://github.com/lancetw/ebook-1/blob/master/09_other/How-Google-Tests-Software.pdf)
 - Dark Time
 - The Beauty of Mathematics
 - Winning Friends
