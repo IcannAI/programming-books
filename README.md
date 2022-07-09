@@ -115,8 +115,7 @@
 - CLR via C# (4th Edition)
 
 ### Python
-- A Whirlwind Tour of Python
-https://jakevdp.github.io/WhirlwindTourOfPython/
+- [A Whirlwind Tour of Python] (https://jakevdp.github.io/WhirlwindTourOfPython/)
 - Programming with Collective Intelligence
 - Learning Python the Dumb Way
 - Python Basic Tutorial
