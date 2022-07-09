@@ -208,6 +208,8 @@ https://jakevdp.github.io/WhirlwindTourOfPython/
 ### Job Search & Interviews
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Ed)
 - Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, Or Any Top Tech Company (2rd Ed)
+- Software Engineering at Google: Lessons Learned from Programming Over Time
+https://abseil.io/resources/swe-book/html/toc.html
 - Programmers interview Golden (5th Ed)
 - The Beauty of Programming: Insights from Microsoft's Technical Interviews
 - The Finger of the Offer: Typical Programming Questions by Interviewers of Famous Enterprises (Memorial Edition)
