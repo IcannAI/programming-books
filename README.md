@@ -54,6 +54,8 @@
 - [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
 - [Psycho-Cybernetics, A New Way to Get More Living Out of Life](https://www.pdfdrive.com/psycho-cybernetics-e199662590.html)
 - [The War of Art: Break Through the Blocks and Win your Inner Creative Battles](https://www.pdfdrive.com/the-war-of-art-break-through-the-blocks-and-win-your-inner-creative-battles-d188960500.html)
+- [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.pdfdrive.com/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph-d61378068.html)
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.pdfdrive.com/the-power-of-habit-why-we-do-what-we-do-in-life-and-business-d194213356.html)
 - Professionalism for Programmers
 - The Programmer's Way: From Journeyman to Expert
 - The Software Developer's Roadmap: From Apprentice to Master
