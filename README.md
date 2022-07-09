@@ -52,6 +52,8 @@
 ### Career Planning
 - [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
 - [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
+- [Psycho-Cybernetics, A New Way to Get More Living Out of Life](https://www.pdfdrive.com/psycho-cybernetics-e199662590.html)
+- [The War of Art: Break Through the Blocks and Win your Inner Creative Battles](https://www.pdfdrive.com/the-war-of-art-break-through-the-blocks-and-win-your-inner-creative-battles-d188960500.html)
 - Professionalism for Programmers
 - The Programmer's Way: From Journeyman to Expert
 - The Software Developer's Roadmap: From Apprentice to Master
