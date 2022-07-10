@@ -62,6 +62,7 @@
 - Software Systems Architecture: Using Viewpoints and Perspectives to Work with Stakeholders (2nd Edition)
 
 ### Web Front End
+- [Introduction to HTTP](https://launchschool.com/books/http)
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
