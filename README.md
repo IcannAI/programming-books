@@ -68,6 +68,7 @@
 - [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
 - [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
+- [Introduction to Regular Expressions](https://launchschool.com/books/regex)
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
@@ -183,6 +184,7 @@
 - Big Data: Large-Scale Data Mining and Distributed Processing for the Internet (2nd edition)
 
 ### Database
+- [Introduction to SQL](https://launchschool.com/books/sql)
 - SQL Application Refactoring
 - SQL Cookbook
 - High Performance MySQL (3rd Edition)
