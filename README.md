@@ -1,6 +1,7 @@
 # List of Programming Books
 
 ### Computer Systems and Networks
+- [Working with Web APIs](https://launchschool.com/books/working_with_apis)
 - The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma (1st Ed)
 - Introduction to Computer Systems
 - A Deeper Understanding of the Linux Kernel
@@ -66,8 +67,10 @@
 ### Web Front End
 - [Introduction to HTTP](https://launchschool.com/books/http)
 - [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
+- [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript)
 - [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
 - [Introduction to Regular Expressions](https://launchschool.com/books/regex)
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
@@ -205,6 +208,7 @@
 - Geeks and Teams: Team Survival Secrets for Software Engineers
 
 ### Career Planning
+- [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning)
 - [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
 - [The Productive Programmer](https://github.com/kapcino/ebooks-1/blob/master/O'Reilly%20-%20The%20Productive%20Programmer.pdf)
 - [Psycho-Cybernetics, A New Way to Get More Living Out of Life](https://www.pdfdrive.com/psycho-cybernetics-e199662590.html)
