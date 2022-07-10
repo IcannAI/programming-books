@@ -19,6 +19,8 @@
 - The Art of WireShark Network Analysis
 
 ### Programming 
+- [Introduction to the Command Line](https://launchschool.com/books/command_line)
+- [A Guide to Git and Github](https://launchschool.com/books/git)
 - Programming Originals
 - The Complete Book of Code
 - The Art of UNIX Programming
@@ -63,6 +65,9 @@
 
 ### Web Front End
 - [Introduction to HTTP](https://launchschool.com/books/http)
+- [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
+- [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)
+- [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
