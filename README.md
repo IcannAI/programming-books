@@ -69,7 +69,7 @@
 - [Introduction to HTTP](https://launchschool.com/books/http)
 - [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
 - [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript)
-- [Learn Enough HTML to Be Dangerous](https://www.pdfdrive.com/learn-enough-html-to-be-dangerous-an-introduction-to-html-e158125213.html)
+- [Learn Enough HTML](https://www.pdfdrive.com/learn-enough-html-to-be-dangerous-an-introduction-to-html-e158125213.html)
 - [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
