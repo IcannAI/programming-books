@@ -24,6 +24,10 @@
 - [A Guide to Git and Github](https://launchschool.com/books/git)
 - [Learn Enough Command Line](https://www.pdfdrive.com/learn-enough-command-line-to-be-dangerous-a-tutorial-introduction-to-the-unix-command-line-d185807217.html)
 - Programming Originals
+- [Learn Enough Git](https://www.scribd.com/document/433542585/Learn-Enough-Git-to-Be-Dangerous)
+- [Learn Enough Custom Domains](https://www.scribd.com/document/535568087/learn-enough-custom-domains)
+- [Learn Enough Dev Environment](https://www.scribd.com/document/535568033/learn-enough-dev-environment)
+- [Learn Enough Tutorial Writing](https://www.scribd.com/document/535568035/learn-enough-tutorial-writing)
 - The Complete Book of Code
 - The Art of UNIX Programming
 - The Neat Way to Code
