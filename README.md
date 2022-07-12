@@ -66,6 +66,7 @@
 - Software Systems Architecture: Using Viewpoints and Perspectives to Work with Stakeholders (2nd Edition)
 
 ### Web Front End
+- [HTML and CSS Web Standards Solutions](https://nibmehub.com/opac-service/pdf/read/HTML%20and%20CSS%20Web%20Standards%20Solutions_%20A%20Web%20Standardistas%27%20Approach.pdf)
 - [Introduction to HTTP](https://launchschool.com/books/http)
 - [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
 - [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript)
