@@ -79,7 +79,7 @@
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
 - [The Ruby on Rails Tutorial (6th Edition)](https://edu.anarcho-copy.org/Programming%20Languages/Ruby/ruby-rails-tutorial-learn-web-development-6th.pdf)
-- [Ruby On Rails Tutorial](https://www.scribd.com/document/356762644/Ruby-on-Rails-Tutorial-preview)
+- [Ruby on Rails Tutorial](https://www.scribd.com/document/356762644/Ruby-on-Rails-Tutorial-preview)
 - [Introduction to Regular Expressions](https://launchschool.com/books/regex)
 - [The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/thejsway.pdf) / [eBook](https://github.com/thejsway/thejsway)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
